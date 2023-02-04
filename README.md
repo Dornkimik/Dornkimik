@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dornkimik
+- 👋🏻 Hi, I’m @Dornkimik
 - 💻 Currently learning C#
 
 <!---

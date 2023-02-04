@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dornkimik
-- 🌱 I’m currently learning C#
-- 🎮 https://saubstauga.itch.io/
+- 💻 Currently learning C#
 
 <!---
 TheMarabu/TheMarabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

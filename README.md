@@ -1,6 +1,5 @@
 - 👋🏻 Hi, I’m @Dornkimik
-- 📃 16 years old
-- 💻 Currently learning C#
+- 💻 C#
 
 <!---
 TheMarabu/TheMarabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

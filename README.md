@@ -1,4 +1,5 @@
 - 👋🏻 Hi, I’m @Dornkimik
+- 📃 17 years old
 - 💻 C#
 
 <!---

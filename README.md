@@ -1,10 +1,5 @@
-Hi 👋 My name is Dominik
+Hi 👋
 ========================
-
-Application Developer
----------------------
-
-Coding on and off since 2 years
 
 ### Skills
 

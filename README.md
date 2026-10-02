@@ -1,4 +1,4 @@
-# Dominik
+# DevOminik
 
 Software developer focused on privacy-respecting web applications, practical cryptography, and desktop automation. I also build games and game mods in C# and Unity.
 

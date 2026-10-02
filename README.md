@@ -22,7 +22,6 @@ Built with Node.js and vanilla JavaScript, with a single runtime dependency.
 | Project | Description | Stack |
 | --- | --- | --- |
 | [gnome-calendar-integration](https://github.com/Dornkimik/gnome-calendar-integration) | Omarchy bar widget showing the next GNOME Calendar event, plus a Codex skill for creating and managing events through Evolution Data Server. | Python |
-| [FewMoreTraits](https://github.com/Dornkimik/FewMoreTraits-Source) | RimWorld mod that adds new colonist traits, published on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2894069326). | C# |
 | [BitburnerScrips](https://github.com/Dornkimik/BitburnerScrips) | Automation scripts for the programming game Bitburner. | JavaScript |
 | [Chess-Challenge](https://github.com/Dornkimik/Chess-Challenge) | Custom chess bot implementation. | C# |
 | [Cube Simulation](https://saubstauga.itch.io/cube-simulation) | Small simulation project, playable on itch.io. | Unity |

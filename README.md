@@ -38,7 +38,6 @@ Built with a deliberately tiny dependency footprint: plain **Node.js** + vanilla
 | 🔫 [**Cubedown Shooter**](https://saubstauga.itch.io/cubedown-shooter) | A small, self-declared "trashy" top-down shooter made in Unity. Play it on itch.io. |
 | 🔑 [**Password_Generator**](https://github.com/Dornkimik/Password_Generator) | A password generator… but with an overlay. |
 | 🧾 [**PseudoEncrypter**](https://github.com/Dornkimik/PseudoEncrypter) | Encrypts a sentence and spits out a random lookup table to decode it — where the crypto rabbit hole started. |
-| ✅ [**Habit-Tracker**](https://github.com/Dornkimik/Habit-Tracker) | A tiny daily habit tracker that resets every day. Simple tool, honest results. |
 
 ---
 
@@ -55,12 +54,5 @@ Built with a deliberately tiny dependency footprint: plain **Node.js** + vanilla
 </p>
 
 ---
-
-## 🎲 Quick facts
-
-- 🔒 Went from a pseudo-encrypter with a lookup table to real authenticated encryption. Character development.
-- 🎮 Games are my favorite excuse to learn: RimWorld modding, Unity cubes, and hacking in Bitburner.
-- 🐧 Daily-driving Omarchy and tweaking my bar until it's perfect.
-- 💬 Ask me about: privacy, metadata, and why "anonymous" doesn't mean "untraceable".
 
 <p align="center"><sub>01000010 01111001 01100101 👋</sub></p>
